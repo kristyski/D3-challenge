@@ -81,7 +81,7 @@
       chartGroup.append("g")
         .call(leftAxis);
 
-      // Step 5: Create Circles
+      // Step 5: Create Circles //KRISTY CHECK ADD TO MYMAP
       // ==============================
       var circlesGroup = chartGroup.selectAll("circle")
         .data(censusData)
