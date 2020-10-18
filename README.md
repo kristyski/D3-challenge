@@ -3,4 +3,4 @@
 # Data Analytics
 # October 18, 2020
 
-<img src="/./Images/image1.jpg" alt="scatter">
+<img src="/D3_data_journalism/Images/image1.jpg" alt="scatter">
